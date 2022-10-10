@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-success {
+    width: 23vw;
+}
+
+input {
+    height: 10vh;
+}
+
+.btn-close {
+    padding: 0.5rem !important;
+}
